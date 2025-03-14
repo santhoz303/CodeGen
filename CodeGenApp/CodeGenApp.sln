@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenApp", "CodeGenApp.csproj", "{C458EE52-1ECF-4362-8BCF-67D43C36BC7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityGeneratorConsole", "..\EntityGeneratorConsole\EntityGeneratorConsole.csproj", "{3A8243E9-C359-4731-98D2-307FC0C0935D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C458EE52-1ECF-4362-8BCF-67D43C36BC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C458EE52-1ECF-4362-8BCF-67D43C36BC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C458EE52-1ECF-4362-8BCF-67D43C36BC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8243E9-C359-4731-98D2-307FC0C0935D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8243E9-C359-4731-98D2-307FC0C0935D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8243E9-C359-4731-98D2-307FC0C0935D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8243E9-C359-4731-98D2-307FC0C0935D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
